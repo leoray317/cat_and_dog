@@ -4,4 +4,4 @@
 
 # GCAM:
 take weight and show on the original photo 
-![](./GCAM/.)
+![](./GCAM/dog.jpg)
