@@ -4,4 +4,4 @@
 
 # GCAM:
 take weight and show on the original photo 
-![](./photo/Structure.PNG)
+![](./GCAM/.)
